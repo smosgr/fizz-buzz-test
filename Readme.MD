@@ -11,7 +11,7 @@ Write a program that receives as an INPUT an integer and RETURNS Fizz, Buzz or F
 * multiples of both three and five print "FizzBuzz".
 
 
-There's no definite set of rules, but extra points will given in:
+There's no definite set of rules, but extra points will be given in:
 
 * Running application 
 * Good test coverage
